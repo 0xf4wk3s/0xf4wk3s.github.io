@@ -33,3 +33,7 @@ Nasıl bulabiliriz? Tabi kii  >> **ping** atarak.
  > IP burada : 104.26.11.129
  
  Hadi gidip biraz _shodan_ 'layalım!
+ 
+ ![shodan_ip.PNG](https://i.hizliresim.com/OxrKn8.png)
+ 
+ ![shodan_screenshot0.PNG]({{site.baseurl}}/_posts/shodan_screenshot0.PNG)
