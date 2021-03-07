@@ -1,6 +1,6 @@
 ---
 title: Post - 1
-published: true
+published: false
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
