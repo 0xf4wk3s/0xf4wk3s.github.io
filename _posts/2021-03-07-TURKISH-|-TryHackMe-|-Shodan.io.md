@@ -84,11 +84,16 @@ Adım 3 : bunu shodan üzerinden aratalım,
 
 Adım 4 : Bulduk! ASN Numarası : AS15169
 
+Cevap : AS15169
+
 ### Ne zaman tahsis edildi? Sadece yılı verin. : When was it allocated? Give the year only.
 
 https://ipinfo.io/AS15169
 
 ipinfo.io adresi üzerinden Google'ın ASN numarasını girdiğimizde tanımlandığı yılı bulabildik.
+
+![ipinfo.io_google.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/ipinfo.io_google.PNG)
+
 
 
 
