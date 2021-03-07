@@ -8,3 +8,5 @@ Hello I'm 0xf4wk3s, working on Cyber Threat Intelligence and I would be honored 
 
 Take care of yourselves,
 Thanks.
+
+![](https://i.hizliresim.com/Y3KXb4.jpg)
