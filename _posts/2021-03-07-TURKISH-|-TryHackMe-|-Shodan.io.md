@@ -28,12 +28,14 @@ Bu konuda shodan.io bize yardımcı olabilir.
 
 Nasıl bulabiliriz? Tabi kii  >> **ping** atarak.
 
-![tryhackme_ip.PNG](https://i.hizliresim.com/h1pG8K.png)
+![tryhackme_ip.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/tryhackme_ip.PNG)
 
  > IP burada : 104.26.11.129
  
  Hadi gidip biraz _shodan_ 'layalım!
  
- ![shodan_ip.PNG](https://i.hizliresim.com/OxrKn8.png)
+ ![shodan_arama.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/shodan_arama.PNG)
  
- ![shodan_screenshot0.PNG]({{site.baseurl}}/_posts/shodan_screenshot0.PNG)
+ ![shodan_screenshot0.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/shodan_screenshot0.PNG)
+
+![shodan_arama.PNG]({{site.baseurl}}/_posts/shodan_arama.PNG)
