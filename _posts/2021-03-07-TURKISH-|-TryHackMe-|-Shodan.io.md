@@ -92,6 +92,8 @@ https://ipinfo.io/AS15169
 
 ipinfo.io adresi üzerinden Google'ın ASN numarasını girdiğimizde tanımlandığı yılı bulabildik.
 
+Cevap : 2000
+
 ![ipinfo.io_google.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/ipinfo.io_google.PNG)
 
 
