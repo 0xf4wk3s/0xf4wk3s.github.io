@@ -38,4 +38,4 @@ Nasıl bulabiliriz? Tabi kii  >> **ping** atarak.
  
  ![shodan_screenshot0.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/shodan_screenshot0.PNG)
 
-![shodan_arama.PNG]({{site.baseurl}}/_posts/shodan_arama.PNG)
+
