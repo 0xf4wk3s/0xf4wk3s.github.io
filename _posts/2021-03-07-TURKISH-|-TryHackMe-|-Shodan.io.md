@@ -77,8 +77,11 @@ Getting Started - Başlarken Bölümündeki Sorulara geçebiliriz.
 ### Google'ın ASN Numarası nedir? : What is Google's ASN number?
 
 Adım 1 : google.com'a ping atalım.
+
 Adım 2 : IP adresini bulduk, 216.58.206.206 işte burada.
+
 Adım 3 : bunu shodan üzerinden aratalım, 
+
 Adım 4 : Bulduk! ASN Numarası : AS15169
 
 ### Ne zaman tahsis edildi? Sadece yılı verin. : When was it allocated? Give the year only.
