@@ -50,7 +50,7 @@ Birden fazla IP adresine sahip Google gibi devasa bir şirket olduğunuzu düş�
 
 ASN numarasını Shodan.io üzerinden asn filtresi ile bulabiliriz.
 
-> Kullanılacak filtre  asn:[asn_numarası]
+> Kullanılacak filtre ==> asn:[asn_numarası]
 
 TryHackMe büyük bir şirket olmadığından kendine özel ASN adresine sahip değildir.
 
@@ -60,7 +60,7 @@ Shodan kullanarak bize örnek olarak verilen  : AS14061 (ASN) adresini bulabilir
 
 Şu Shodan filtresini kullanalım :  
 
-> asn:AS14061
+> asn:AS14061  
 
 ![digitalocean_asn.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/digitalocean_asn.PNG)
 
