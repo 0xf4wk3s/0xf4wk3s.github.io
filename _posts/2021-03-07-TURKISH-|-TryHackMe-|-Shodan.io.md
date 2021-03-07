@@ -28,7 +28,7 @@ Bu konuda shodan.io bize yardımcı olabilir.
 
 Nasıl bulabiliriz? Tabi kii  >> **ping** atarak.
 
-![tryhackme_ip.PNG]({{site.baseurl}}/_posts/tryhackme_ip.PNG)
+![tryhackme_ip.PNG](https://i.hizliresim.com/h1pG8K.png)
 
  > IP burada : 104.26.11.129
  
