@@ -1,5 +1,5 @@
 ---
-title: Yet Another Sample Page
+title: Post - 1
 published: true
 ---
 
