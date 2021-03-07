@@ -4,22 +4,23 @@ published: true
 ![](https://i.imgur.com/J1ik7ZU.png) 
 
 
-Merhabalar bu yazımda TryHackMe üzerindeki [Shodan.io](https://tryhackme.com/room/shodan) adlı odanın çözümünü paylaşacağım.
+Merhabalar bu yazımda sizinle TryHackMe üzerindeki [Shodan.io](https://tryhackme.com/room/shodan) adlı odanın çözümünü paylaşacağım.
 
-Bu odanın Shodan'ı anlamak ve tanımak için güzel bir kaynak olduğunu düşünüyorum. 
+odanın Shodan'ı anlamak ve tanımak için güzel bir kaynak olduğunu düşünüyorum. 
 
 
-Öyleyse başlayalım.
+Öyleyse 2 adet akılda kalıcı tanımımızla başlayalım,
 
-Shodan.io Nesnelerin İnterneti için oluşturulan bir arama motorudur.
+**Tanım 1 :** Shodan.io, nesnelerin interneti için oluşturulan bir arama motorudur.
 
-İnternete bağlı cihazların arama motoru olarak da tanımlayabiliriz.
+**Tanım 2 :** Shodan.io, internete bağlı cihazların arama motorudur.
+
 
 ## Servisleri Bulma
 
 Bir şirket üzerinde pentest yaptığımızı düşünelim, napabiliriz? 
 
->>> sunucularının hangi hizmetleri çalıştırdığını öğrenmek isteyebiliriz.
+sunucularının hangi hizmetleri çalıştırdığını öğrenmek isteyebiliriz.
 
 Bu konuda shodan.io bize yardımcı olabilir.
 
