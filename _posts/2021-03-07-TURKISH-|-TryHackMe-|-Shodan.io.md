@@ -1,8 +1,7 @@
 ---
 published: true
 ---
-## A New Post
+## TURKISH | TryHackMe | Shodan.io
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-Congrulations!
+Shodan.io Nedir**?**
+Hazırsanız, bunu açıklayacağım. =)
