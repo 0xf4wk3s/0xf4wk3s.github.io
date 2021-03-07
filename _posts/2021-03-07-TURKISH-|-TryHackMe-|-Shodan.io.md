@@ -48,17 +48,29 @@ Otonom Sistem Numarası(ASN) nedir? tanımlamaya çalışalım,
 
 Birden fazla IP adresine sahip Google gibi devasa bir şirket olduğunuzu düşünün. Otonom Sistem Numarası(ASN) burada devreye girer. Bu numara sizi tanımlar.
 
-ASN numarasını Shodan.io üzerinden bulabiliriz. 
+ASN numarasını Shodan.io üzerinden asn filtresi ile bulabiliriz.
 
-Yukarıdaki resimde gördüğünüz _Cloudflare_ ASN adresi : AS13335
+> Kullanılacak filtre  asn:[asn_numarası]
 
 TryHackMe büyük bir şirket olmadığından kendine özel ASN adresine sahip değildir.
 
+Yukarıdaki resimde gördüğünüz _Cloudflare_ ASN adresi : AS13335
+
 Shodan kullanarak bize örnek olarak verilen  : AS14061 (ASN) adresini bulabiliriz.
 
-Şu Shodan filtresini kullanalım : 
+Şu Shodan filtresini kullanalım :  
 
 > asn:AS14061
+
+![digitalocean_asn.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/digitalocean_asn.PNG)
+
+Bulduk! Bu ASN DigitalOcean'a ait.
+
+Konuyu anladığımızı düşünüyorum, fakat son kez bana aşağıdaki ASN numarasının sahibi kim bulun bakalım.
+
+> AS15169
+
+Evet! Google :) Tebrikler.
 
 
 
