@@ -121,6 +121,7 @@ Cevap : Cloud
 ## Filters : Filtreler bölümündeki sorulara geçelim,
 
 Shodan.io üzerinde explore/keşfet bölümünde en çok oylanan arama sorgularını görüntüleyebiliriz.
+
 [shodan.io/explore](https://www.shodan.io/explore)
 
 
