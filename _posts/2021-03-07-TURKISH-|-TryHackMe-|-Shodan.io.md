@@ -100,6 +100,24 @@ Cevap : 2000
 
 ![asn_sc0.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/asn_sc0.PNG)
 
-Cevap : United States 
+Cevap : United States
+
+### Bu ASN'de Google'ın tüm cihazlarında en iyi hizmeti nedir? : What is Google's top service across all their devices on this ASN?
+
+Cevap : SSH
+
+### Google hangi SSH ürününü kullanıyor? : What SSH product does Google use?
+
+![openssh_0.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/openssh_0.PNG)
+
+Cevap : OpenSSH
+
+### Bu aramaya göre Google'ın en çok kullandığı Google ürünü nedir? Önündeki "Google" kelimesini dikkate almayın. : What is Google's most used Google product, according to this search? Ignore the word "Google" in front of it.
+
+![cloud_0.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/cloud_0.PNG)
+
+Cevap : Google Cloud
+
+
 
 
