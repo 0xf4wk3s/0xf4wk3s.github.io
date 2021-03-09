@@ -124,6 +124,28 @@ Shodan.io üzerinde explore/keşfet bölümünde en çok oylanan arama sorgular�
 
 [shodan.io/explore](https://www.shodan.io/explore)
 
+Uyarı : Bu bölüm sakıncalı olabilir, halka açık web kameralarına erişmek yasaldır fakat parola korumalı bir web kamerasına girmeye çalışmak ise yasa dışı. Lütfen dikkatli olalım.
+
+### Shodan'da Eternal Blue istismarlarını nasıl arayabiliriz? : How do we find Eternal Blue exploits on Shodan?
+
+Cevap : ms17-010
+
+## Google & Filtering
+
+
+### Google'ın ASN'sinde MYSQL sunucuları için en iyi işletim sistemi nedir? : What is the top operating system for MYSQL servers in Google's ASN?  
+
+Hmm.. İlk olarak Google ASN numarasını bulalım.
+
+![google_ping.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/google_ping.PNG)
+
+![google_asn.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/google_asn.PNG)
+
+![mysql_asn_gogle.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/mysql_asn_gogle.PNG)
+
+Cevap : Netherlands
+
+
 
 
 
