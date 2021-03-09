@@ -174,6 +174,32 @@ Google'ın ASN adresinde webcam sayfası bulunmuyor.
 
 ## Shodan Monitor
 
+Shodan Monitor kendi ağınızdaki cihazları izlemek için bir uygulamadır.
+
+### What URL takes you to Shodan Monitor?
+
+Cevap : https://monitor.shodan.io/dashboard
+
+## Shodan Dorking
+
+Shodan, bir şeyler bulmamızı sağlayan Dorks ile bazı güzel web sayfalarına sahiptir. Arama örneği web sayfalarında bazılarını bulabilirsiniz.
+
+Bazi eğlenceli olanlar şunları içerir:
+
+Filtre : has_screenshot:true encrypted attention
+
+İnternette fidye yazılımı tarafından tehlikeye atılan makineleri bulmak için optik karakter tanıma ve uzak masaüstü kullanır.
+
+![screenshot_true_enc.png](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/screenshot_true_enc.png)
+
+
+
+
+
+
+
+
+
 
 
 
