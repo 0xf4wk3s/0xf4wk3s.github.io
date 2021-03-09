@@ -218,9 +218,9 @@ Okuduğunuz için teşekkür ederim.
 
 Lütfen geri bildirimde bulunmaktan çekinmeyin ^^
 
-(mail_adress = 0xf4wk3s@protonmail.ch)
+(mail_address = 0xf4wk3s@protonmail.ch)
 
-Saygılarımla,
+Görüşmek üzere,
 
 0xf4wk3s.
 
