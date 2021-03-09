@@ -116,7 +116,7 @@ Cevap : OpenSSH
 
 ![cloud_0.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/cloud_0.PNG)
 
-Cevap : Google Cloud
+Cevap : Cloud
 
 ## Filters : Filtreler bölümündeki sorulara geçelim,
 
