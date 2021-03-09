@@ -148,7 +148,7 @@ Cevap : 5.6.40-84.0-log (Cevap bu fakat güncel olarak 5.7.32-35-log)
 
 ### Google'ın ASN'sinde MYSQL sunucuları için en popüler 2. ülke hangisidir? : What is the 2nd most popular country for MYSQL servers in Google's ASN?
 
-Şu filtre ile sonuca ulaşabiliriz : asn:AS15169 product:MySQL
+Şu filtre ile sonuca ulaşabiliriz : _asn:AS15169 product:MySQL_
 
 ![mysql_asn_gogle.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/mysql_asn_gogle.PNG)
 
@@ -186,11 +186,16 @@ Shodan, bir şeyler bulmamızı sağlayan Dorks ile bazı güzel web sayfaların
 
 Bazi eğlenceli olanlar şunları içerir:
 
-Filtre : has_screenshot:true encrypted attention
+Filtre : _has_screenshot:true encrypted attention_
 
 İnternette fidye yazılımı tarafından tehlikeye atılan makineleri bulmak için optik karakter tanıma ve uzak masaüstü kullanır.
 
 ![screenshot_true_enc.png](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/screenshot_true_enc.png)
+
+Filtre : _has_screenshot:true encrypted attention_
+
+![screenshot_ics.png](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/screenshot_ics.png)
+
 
 
 
