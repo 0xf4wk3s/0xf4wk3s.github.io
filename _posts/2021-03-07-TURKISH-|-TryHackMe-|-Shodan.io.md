@@ -192,9 +192,39 @@ Filtre : _has_screenshot:true encrypted attention_
 
 ![screenshot_true_enc.png](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/screenshot_true_enc.png)
 
-Filtre : _has_screenshot:true encrypted attention_
+Filtre : _screenshot.label:ics_
 
 ![screenshot_ics.png](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/screenshot_ics.png)
+
+Filtre : _vuln:CVE-2014-0160_
+
+CVE-2014-0160 açığına sahip makineleri listeler.
+
+Filtre : http.favicon.hash:-1776962843 (SolarWinds SupplyChain Attack) 
+
+### What dork lets us find PCs infected by Ransomware? : Ransomware bulaşmış bilgisayarları bulmamızı sağlayan filtre nedir?
+
+Cevap : has_screenshot:true encrypted attention
+
+
+
+
+
+
+
+Yazının sonuna geldik,
+
+Okuduğunuz için teşekkür ederim.
+
+Lütfen geri bildirimde bulunmaktan çekinmeyin,
+
+(mail_adress = 0xf4wk3s@protonmail.ch)
+
+Saygılarımla,
+
+0xf4wk3s.
+
+
 
 
 
