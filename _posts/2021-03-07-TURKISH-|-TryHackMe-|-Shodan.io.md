@@ -216,7 +216,7 @@ Yazının sonuna geldik,
 
 Okuduğunuz için teşekkür ederim.
 
-Lütfen geri bildirimde bulunmaktan çekinmeyin,
+Lütfen geri bildirimde bulunmaktan çekinmeyin ^^
 
 (mail_adress = 0xf4wk3s@protonmail.ch)
 
