@@ -133,7 +133,8 @@ Cevap : ms17-010
 ## Google & Filtering
 
 
-### Google'ın ASN'sinde MYSQL sunucuları için en iyi işletim sistemi nedir? : What is the top operating system for MYSQL servers in Google's ASN?  
+### Google'ın ASN'sinde MYSQL sunucuları için en iyi işletim sistemi nedir? : What is the top operating system for MYSQL servers in Google's ASN?
+
 
 Hmm.. İlk olarak Google ASN numarasını bulalım.
 
@@ -143,11 +144,38 @@ Hmm.. İlk olarak Google ASN numarasını bulalım.
 
 Google ASN : AS15169
 
+Cevap : 5.6.40-84.0-log (Cevap bu fakat güncel olarak 5.7.32-35-log)
+
+### Google'ın ASN'sinde MYSQL sunucuları için en popüler 2. ülke hangisidir? : What is the 2nd most popular country for MYSQL servers in Google's ASN?
+
 Şu filtre ile sonuca ulaşabiliriz : asn:AS15169 product:MySQL
 
 ![mysql_asn_gogle.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/mysql_asn_gogle.PNG)
 
 Cevap : Netherlands
+
+### Google'ın ASN'si altında Nginx, Hypertext Transfer Protocol veya SSL destekli Hypertext Transfer Protocol arasında daha popüler olan hangisidir? : Under Google's ASN, which is more popular for nginx, Hypertext Transfer Protocol or Hypertext Transfer Protocol with SSL?
+
+Cevap : Hypertext Transfer Protocol
+
+### Under Google's ASN, what is the most popular city?
+
+Cevap : Mountain View
+
+### Google'ın Los Angeles'taki ASN'si altında, Shodan'a göre en iyi işletim sistemi hangisidir?
+
+Cevap : PAN-OS
+
+### Using the top Webcam search from the explore page, does Google's ASN have any webcams?
+
+Cevap : Nay
+
+Google'ın ASN adresinde webcam sayfası bulunmuyor.
+
+## Shodan Monitor
+
+
+
 
 
 
