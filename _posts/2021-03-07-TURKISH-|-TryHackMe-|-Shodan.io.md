@@ -141,6 +141,10 @@ Hmm.. İlk olarak Google ASN numarasını bulalım.
 
 ![google_asn.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/google_asn.PNG)
 
+Google ASN : AS15169
+
+Şu filtre ile sonuca ulaşabiliriz : asn:AS15169 product:MySQL
+
 ![mysql_asn_gogle.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/mysql_asn_gogle.PNG)
 
 Cevap : Netherlands
