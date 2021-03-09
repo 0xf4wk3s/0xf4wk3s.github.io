@@ -72,9 +72,9 @@ Konuyu anladığımızı düşünüyorum, fakat son kez bana aşağıdaki ASN nu
 
 Evet! Google :) Tebrikler.
 
-Getting Started - Başlarken Bölümündeki Sorulara geçebiliriz.
+### Getting Started - Başlarken Bölümündeki Sorulara geçebiliriz.
 
-### Google'ın ASN Numarası nedir? : What is Google's ASN number?
+## Google'ın ASN Numarası nedir? : What is Google's ASN number?
 
 Adım 1 : google.com'a ping atalım.
 
@@ -86,7 +86,7 @@ Adım 4 : Bulduk! ASN Numarası : AS15169
 
 Cevap : AS15169
 
-### Ne zaman tahsis edildi? Sadece yılı verin. : When was it allocated? Give the year only.
+## Ne zaman tahsis edildi? Sadece yılı verin. : When was it allocated? Give the year only.
 
 https://ipinfo.io/AS15169
 
@@ -96,27 +96,29 @@ Cevap : 2000
 
 ![ipinfo.io_google.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/ipinfo.io_google.PNG)
 
-### Fiziksel olarak dünyada bu ASN numarasındaki makinelerin çoğu nerede? : Where are most of the machines on this ASN number, physically in the world?
+## Fiziksel olarak dünyada bu ASN numarasındaki makinelerin çoğu nerede? : Where are most of the machines on this ASN number, physically in the world?
 
 ![asn_sc0.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/asn_sc0.PNG)
 
 Cevap : United States
 
-### Bu ASN'de Google'ın tüm cihazlarında en iyi hizmeti nedir? : What is Google's top service across all their devices on this ASN?
+## Bu ASN'de Google'ın tüm cihazlarında en iyi hizmeti nedir? : What is Google's top service across all their devices on this ASN?
 
 Cevap : SSH
 
-### Google hangi SSH ürününü kullanıyor? : What SSH product does Google use?
+## Google hangi SSH ürününü kullanıyor? : What SSH product does Google use?
 
 ![openssh_0.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/openssh_0.PNG)
 
 Cevap : OpenSSH
 
-### Bu aramaya göre Google'ın en çok kullandığı Google ürünü nedir? Önündeki "Google" kelimesini dikkate almayın. : What is Google's most used Google product, according to this search? Ignore the word "Google" in front of it.
+## Bu aramaya göre Google'ın en çok kullandığı Google ürünü nedir? Önündeki "Google" kelimesini dikkate almayın. : What is Google's most used Google product, according to this search? Ignore the word "Google" in front of it.
 
 ![cloud_0.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/cloud_0.PNG)
 
 Cevap : Google Cloud
+
+### Filters : Filtreler bölümündeki sorulara geçelim,
 
 
 
