@@ -96,8 +96,7 @@ Cevap : 2000
 
 ![ipinfo.io_google.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/ipinfo.io_google.PNG)
 
+### Fiziksel olarak dünyada bu ASN numarasındaki makinelerin çoğu nerede? : Where are most of the machines on this ASN number, physically in the world?
 
-
-
-
+![asn_sc0.PNG](https://raw.githubusercontent.com/0xf4wk3s/0xf4wk3s.github.io/master/_posts/asn_sc0.PNG)
 
